@@ -13,4 +13,6 @@ Using a time series analysis the goal of this project is to create a temperature
 - I believe that sales should be able to be forcasted using the Holt Winters method
 - Will use a variety of methods to find the best forcast for future sales
 
-# Data Dictionary
+# Data Link
+https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
+
